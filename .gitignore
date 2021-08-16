@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.DS_Store
+.Rhistory
+data/
+notebooks/
+scing.log
